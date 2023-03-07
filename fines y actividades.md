@@ -1,11 +1,8 @@
 ---
 title: Fines y actividades
 ---
-La asociación **PROYECT4** nace con el objetivo de promover un futuro más creativo, coherente, consciente, empoderado, equitativo, participativo, saludable, solidario y sostenible en el que puedan desarrollarse todas las personas, capacitándose para liderar acciones que sirvan a empoderarse y con ellas empoderar a su entorno próximo.  
-Para ello ideamos, creamos y gestionamos proyectos que persiguen experimentar, investigar e innovar, provocando alteridades, al menos temporales, de las realidades de las personas que participan en los mismos.  
-En **PROYECT4** creemos en el cuidado holístico de las personas y del entorno en cualquiera de sus dimensiones, la generación de oportunidades de desarrollo que permitan un mejor uso de los recursos, tanto tangibles como intangibles, cuidando y respetando el medio ambiente, haciendo especial hincapié en brindar oportunidades a las personas de colectivos vulnerables, que permitan generar y dinamizar redes de apoyo que redunden en el presente y el futuro de las personas y su entorno.  
-Para ello, además de los que **PROYECT4** pueda decidir incluir en cualquier momento, se contemplan los Objetivos de Desarrollo Sostenible como una guía de metas compartidos por las personas asociadas y el grueso de la sociedad.  
-
+Desde la asociación **PROYECT4** se contemplan los Objetivos de Desarrollo Sostenible como una guía de metas compartidos por las personas asociadas y el grueso de la sociedad.  
+  
 Estos objetivos son:  
 - Acabar con la pobreza en cualquiera de sus formas.  
 - Acabar con el hambre.  
@@ -40,8 +37,8 @@ circular.
 desarrollo humano y sostenible, procurando visibilizar y potenciar la
 multiplicidad de conexiones complementarias con todas las dimensiones del
 desarrollo sostenible.  
-
-
+  
+  
 ## Actividades
-
+  
 **PROYECT4** ideará, gestionará y/o desarrollará tanto en su nombre como en el de terceros cuantas actividades considere que persigan la obtención de los fines anteriormente especificados, enumerando, entre otras y no exclusivamente, los proyectos de asesoría, asistenciales, de apoyo, de comunicación, de cooperación, de coordinación, culturales, de desarrollo, económicos, educativos, expositivos, formativos, de innovación, de inserción social, de investigación, de prevención, ocupacionales y/o de sensibilización.
